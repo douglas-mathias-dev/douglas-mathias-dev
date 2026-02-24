@@ -21,7 +21,7 @@ Desenvolvedor .Net com experiência em todas as etapas do ciclo de vida de softw
 
 `.Net` `C#` `VB.Net` `SQL`
 
-### Portfolio
+### :smile: Portfolio
 
 [`Portfolio`](https://linkedin.com/in/douglas-mathias)
 
