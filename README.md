@@ -14,7 +14,9 @@ Desenvolvedor .Net com experiência em todas as etapas do ciclo de vida de softw
 ### :brain:  Sobre mim
 
 :technologist: Desenvolvedor .Net
+
 :lock: Formado em Segurança da Informação
+
 :saxophone: Músico nas horas vagas
 
 ### :rocket: Tech Stack
