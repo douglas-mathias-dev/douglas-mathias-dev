@@ -13,13 +13,13 @@ Desenvolvedor .Net com experiência em todas as etapas do ciclo de vida de softw
 
 ### :brain:  Sobre mim
 
-- :technologist: Desenvolvedor .Net com mais de 5 anos de experiência
-- :lock: Formado em Segurança da Informação
-- :saxophone: Músico nas horas vagas
+:technologist: Desenvolvedor .Net
+:lock: Formado em Segurança da Informação
+:saxophone: Músico nas horas vagas
 
 ### :rocket: Tech Stack
 
-- `.Net` `C#` `VB.Net` `SQL`
+`.Net` `C#` `VB.Net` `SQL`
 
 ### Contatos
 
