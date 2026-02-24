@@ -23,8 +23,8 @@ Desenvolvedor .Net com experiência em todas as etapas do ciclo de vida de softw
 
 ### :smile: Portfolio
 
-[`Portfolio`](https://linkedin.com/in/douglas-mathias)
+[`Portfolio`](https://douglas-mathias-dev.github.io/Portfolio/)
 
 ### Contatos
 
-[`Linkedin`](https://douglas-mathias-dev.github.io/Portfolio/)
+[`Linkedin`](https://linkedin.com/in/douglas-mathias)
